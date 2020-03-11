@@ -15,8 +15,8 @@ module.exports = {
             title: "测试主标题",
             collapsable: false,
             children: [
-              ["/views/template/", "template1"],
-              ["/views/template/", "template2"],
+              ["/views/template1/", "template1"],
+              ["/views/template2/", "template2"],
             ]
           }
         ]
